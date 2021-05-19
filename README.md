@@ -1,3 +1,6 @@
+# 基于React、redux、react-redux、nanoid的使用react-redux共享状态的小案例
+![demo](https://github.com/pangqianjin/react-redux-demo/blob/main/imgs/demo.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
